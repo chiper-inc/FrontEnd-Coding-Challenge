@@ -31,3 +31,5 @@ Create an app that lists all messages and their details from [JSONPlaceholder](h
 - Add a Readme.md file explaining how to run the application, the proposed architecture for development. Why is your solution better than another implementation? If I use third party libraries explain why. (advantages and disadvantages of your solution).
 - You should support: iOS 15, Android API 30, React Native 0.66
 
+
+![alt text](https://github.com/chiper-inc/FrontEnd-Coding-Challenge/blob/main/screens.png)
