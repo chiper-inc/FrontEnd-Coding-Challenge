@@ -1,10 +1,5 @@
 # FrontEnd-Coding-Challenge
 
-<p align="center">
-  <a href="https://chiper.co" target="_blank">
-    <img src="src/assets/images/chiper-logo.svg" width="160" />
-  </a>
-</p>
 
 Create an app that lists all messages and their details from [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 ## Requirements
